@@ -1,0 +1,22 @@
+{
+  "name": "soshubb",
+  "version": "1.0.0",
+  "description": "add shadow to shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soshub-dev/soshub-dev.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "soshubb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soshub-dev/soshub-dev/issues"
+  },
+  "homepage": "https://github.com/soshub-dev/soshub-dev#readme"
+}
